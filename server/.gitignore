@@ -1,2 +1,5 @@
 # ignore database files generated during testing or development
 *.sqlite3
+
+# ignore compiled Python files
+*.pyc
