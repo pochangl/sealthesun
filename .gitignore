@@ -1,2 +1,5 @@
 # IDE settings
 *.code-workspace
+
+# dev environment
+.venv/
