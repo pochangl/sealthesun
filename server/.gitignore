@@ -1,0 +1,2 @@
+# ignore database files generated during testing or development
+*.sqlite3
